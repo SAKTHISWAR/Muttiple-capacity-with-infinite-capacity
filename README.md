@@ -60,6 +60,7 @@ print("--------------------------------------------------------------")
 
 
 ## Output :
+![image](https://github.com/SAKTHISWAR/Muttiple-capacity-with-infinite-capacity/blob/main/p5.png)
 
 
 ## Result : 
